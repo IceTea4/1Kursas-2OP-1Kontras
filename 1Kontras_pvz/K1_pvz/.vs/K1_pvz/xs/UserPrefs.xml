@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F2BBA3E6-F750-4D99-B9B6-2BB0B272AEDB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Faculty.cs">
+    <Files>
+      <File FileName="Program.cs" Line="33" Column="43" />
+      <File FileName="InOut.cs" Line="50" Column="65" />
+      <File FileName="TaskUtils.cs" Line="24" Column="10" />
+      <File FileName="Faculty.cs" Line="1" Column="1" />
+      <File FileName="Student.cs" Line="35" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="K1_pvz" expanded="True">
+            <Node name="K1_pvz" expanded="True">
+              <Node name="Faculty.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.K1__pvz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

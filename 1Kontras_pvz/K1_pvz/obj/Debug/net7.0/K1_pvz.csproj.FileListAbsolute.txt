@@ -1,0 +1,15 @@
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/K1_pvz.csproj.AssemblyReference.cache
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/K1_pvz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/K1_pvz.AssemblyInfoInputs.cache
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/K1_pvz.AssemblyInfo.cs
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/K1_pvz.csproj.CoreCompileInputs.cache
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/bin/Debug/net7.0/K1_pvz
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/bin/Debug/net7.0/K1_pvz.deps.json
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/bin/Debug/net7.0/K1_pvz.runtimeconfig.json
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/bin/Debug/net7.0/K1_pvz.dll
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/bin/Debug/net7.0/K1_pvz.pdb
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/K1_pvz.dll
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/refint/K1_pvz.dll
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/K1_pvz.pdb
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/K1_pvz.genruntimeconfig.cache
+/Users/IceTea/Documents/Programavimas/1Kontras_pvz/K1_pvz/obj/Debug/net7.0/ref/K1_pvz.dll

@@ -1,0 +1,5 @@
+﻿Pavadinimas
+BPavard AVardas 2 1 0 5
+Surname Name 0 0 1 0 2
+ASurname CName 0 0 1 0 5
+ASurname BName 0 0 1 0 5

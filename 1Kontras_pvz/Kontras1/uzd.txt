@@ -1,0 +1,11 @@
+﻿duotos dvi komandos ir jos zaidijai
+duomenu skyrikliai kablelis ir tarpas
+pirmoje eiluteje duotas komandos pavad
+kitose eilutese pateikti komandos nariai
+komandos nario duomenys: pavarde vardas ivarciu sk kiekvienose varzybose
+
+atspausdinti pradinius duomenis i txt
+pasalinti is komanduos tuos zaidejus kurie imuse maziau ivarciu negu zaide varzybu
+isrusiuoti zaidejus pagal imustus ivarcius pavardes ir vardus
+atspausdinti rezultatus i txt
+atspausdinti i txt kuri komanda turi daugiau geru zaideju
